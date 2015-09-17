@@ -34,7 +34,7 @@ class Matrix
   end
 
   def get_best_move
-    best_position = [[1,1],[0,0],[0,2],[2,0],[2,2]].shuffle
+    best_position = [[2,2],[0,0],[0,2],[2,0],[1,1]]
     best_position.each do |y,x|
       return [ y , x ] if get_all_free_move.include?([y,x])
       false
