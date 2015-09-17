@@ -1,6 +1,6 @@
 #Nought and Crosses
 
-run app by: ruby run.
+run app by: ruby run.rb
 
 run test by: rake test.
 
