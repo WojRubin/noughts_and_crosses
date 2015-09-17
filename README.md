@@ -1,4 +1,4 @@
-#Nought and Crosses
+#Noughts and Crosses
 
 run app by: ruby run.rb
 
